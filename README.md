@@ -4,7 +4,7 @@
 <p>M.A., In Learning Sciences and Technologies, National Tsing Hua University, 2019-2022</p>
 <p>B.S., In Applied Mathematics, National Kaohsiung Normal University, 2015-2019</p>
 <p>E-mail:d11944016@csie.ntu.edu.tw</p>
-<p>CV:https://drive.google.com/file/d/11zEg76helcuRdt1mh_K0gKclayPrwFa-/view?usp=sharing</p>
+<p>CV:https://drive.google.com/file/d/1HwiSM2MDmyMDQYvMfVRZCPTiV6lUqh8z/view?usp=sharing</p>
 
 ![img_plt3 ](https://user-images.githubusercontent.com/66123385/205566127-9015e972-9112-48f9-87af-3ebbfb1ac275.png)
 ![img_plt4 ](https://user-images.githubusercontent.com/66123385/205566144-d67e3795-e2a7-4285-a81d-a6dcde4412d3.png)
